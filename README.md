@@ -1,6 +1,7 @@
 # Jour 1 - HTML & CSS - Partie 2
 
 ## Lien vers la <a href="https://annecemech.github.io/html-css-part-2/" target="_blank">démo</a>
+## Lien vers le <a href="https://docs.google.com/presentation/d/e/2PACX-1vRI7-VQ8U9-nnyyW57J2i7nInO7Bhim0wmf9pvrAVqIsO47FG6_5xTDoZsSAxElKm37BPt1oFV6dP9t/pub?start=false&loop=false&delayms=3000" target="_blank">cours</a>
 
 ## Les divisions
 
